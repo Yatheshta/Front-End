@@ -29,6 +29,7 @@ Open the file that we created in step 2 above to write the following code in it:
 
 <br>
 
+```html
     <html>
     <head>
        <title>Hello World In JavaScript</title>
@@ -37,11 +38,12 @@ Open the file that we created in step 2 above to write the following code in it:
         <script>
             console.log('Hello!World');
         </script> 
-        
+       
         <!-- the script enclosed in <script></script>is the actual Javascript code we need to execute in order to print Hello! World. -->
         
     </body>
     </html>
+```
 
 <br>
 
@@ -57,7 +59,7 @@ A blank browser window will open. Right click on the blank window area, and sele
 
 <br>
 
- ![Console](/1.Hello_World/console.png "This is console in Chrome") 
+ ![Console](./console.png "This is console in Chrome") 
  
  <br>
 
@@ -66,7 +68,7 @@ Click on console tab and you will finally see the **output** as shown:
 
 <br>
 
-![Console](/1.Hello_World/Output1.png "This is the output") 
+![Console](./Output1.png "This is the output") 
 
 <br>
 
@@ -77,7 +79,7 @@ Yes! there is a way we can print the code "Hello! World" on the browser window a
 <br>
 
 
-
+```html
     <html>
         <head>
         <title>Hello World</title>
@@ -91,12 +93,13 @@ Yes! there is a way we can print the code "Hello! World" on the browser window a
         
     </body>
     </html>
+```
 
 <br>
 
 This will give the following output:
 
-![Console](/1.Hello_World/Output2.png "This is page in Chrome")
+![Console](./Output2.png "This is page in Chrome")
 
 <br>
 
@@ -113,8 +116,9 @@ B. Open the text editor and write:
 
 <br>
 
-    
+```js 
     console.log('Hello! World');
+```
 
 <br>
 
